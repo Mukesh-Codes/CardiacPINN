@@ -18,6 +18,7 @@
 
 close all
 clear all
+global a k mu1 mu2 epsi b h D fibloc
 tend = 300;
 Dfac = 1; % factor by which D0 is reduced in fibrotic area
 % extra=0;
